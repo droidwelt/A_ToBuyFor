@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/edit_menuItem_add"
+        android:alphabeticShortcut="p"
+        android:icon="@drawable/ic_add"
+        android:orderInCategory="1"
+        android:showAsAction="always|withText"
+        android:title="@string/s_add"
+        android:titleCondensed="@string/s_add" android:checked="true" android:checkable="true">
+    </item>
+    <item
+        android:id="@+id/edit_menuItem_dict"
+        android:alphabeticShortcut="c"
+        android:icon="@drawable/ic_dict"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom"
+        android:title="@string/s_dictionary"
+        android:titleCondensed="@string/s_dictionary">
+    </item>
+</menu>

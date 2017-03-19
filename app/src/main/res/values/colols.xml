@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="c_transparent">#00000000</color>
+    <color name="c_start">#ff0000</color>
+    <color name="c_main">#eeeeee</color>
+    <color name="c_bgr_text">#ffffff</color>
+    <color name="c_bgr_selected">#0000fe</color>
+    <color name="c_hint">#cccccc</color>
+    <color name="c_bgr_done">#888888</color>
+    <color name="c_bgr_not_done">#ffffff</color>
+    <color name="c_toast">#f8ecad</color>
+    <color name="c_clr_0">#ffffff</color>
+    <color name="c_clr_1">#d8ffff</color>
+    <color name="c_clr_2">#ffd8ff</color>
+    <color name="c_clr_3">#ffffd8</color>
+    <color name="c_clr_4">#d8d8ff</color>
+    <color name="c_clr_5">#d8ffd8</color>
+    <color name="c_clr_6">#ffd8d8</color>
+    <color name="c_clr_7">#cfe0ee</color>
+    <color name="c_help_he">#0000ff</color>
+    <color name="c_help_hh">#000000</color>
+    <color name="c_help_help">#000000</color>
+    <color name="c_out_bgr">#ffffff</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation"> 
+    <string-array name="news_list_ans">  
+        <item> We have released a new program Google Play Shopping List PRO, which has a broader
+             features compared with a simple shopping list. We recommend using it this compre
+             program. Shopping List PRO also free and without advertising.            
+        </item>      
+        <item> In ToBuyFor PRO can create your own dictionaries, directories, add a group of products and units. 
+		       For shopping, you can specify the quantity, price, value, view the history of price shopping. 
+			   Widget application will show you all of the latest shopping lists. You can customize the animation 
+			   display screens and select one of the five themes of the application. Now you can transfer the 
+			   application database (by means of a file manager Android) to other devices</item>
+        <item> Adjust the dictonary, his group and units and makes any shopping lists - from weekly purchases 
+		       in the hypermarket to the estimates for the repair of an apartment or a car. Ask the quantity and 
+			   price of the position -The cost will be calculated automatically When you enter a position, 
+			   you can calculate the price by the quantity and value of the position or the number of 
+			   through price and cost. Do not remove the old lists - just mark it as done, and then you can 
+			   trace the history of changes in the purchase price. At the level of purchased items 
+			   at the bottom of the list shows the remaining amount of the purchase - you can always orient, 
+			   there will be enough money to buy. Making lists on a trip on vacation or a business trip, 
+			   the price is specified under the weight position, and you end up with the weight of your luggage. 
+			   Choose a theme for your application preferences and mood, use the application with pleasure!</item>
+    </string-array>
+</resources>

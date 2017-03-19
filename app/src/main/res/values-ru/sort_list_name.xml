@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation"> 
+	<string-array name="sort_list_name">
+		<item>Названию</item>
+		<item>Порядку ввода</item>	
+		<item>Цвету</item>		
+	</string-array>
+</resources>
+
+

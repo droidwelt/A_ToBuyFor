@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.droidwelt.tobuyfor"
+    android:installLocation="auto"
+    android:versionCode="425"
+    android:versionName="1.91" >
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <application
+        android:name="ru.droidwelt.tobuyfor.WMA"
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/s_app_name"
+        android:largeHeap="true"
+        android:logo="@drawable/ic_launcher"
+        android:theme="@style/Theme.Tobuyfor" >
+        <activity
+            android:name="ru.droidwelt.tobuyfor.Start_Activity"
+            android:label="@string/s_app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ru.droidwelt.tobuyfor.Main_Activity"
+            android:label="@string/s_app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="ru.droidwelt.tobuyfor.News_Activity"
+            android:label="@string/s_app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="ru.droidwelt.tobuyfor.View_Activity"
+            android:label="@string/s_app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="ru.droidwelt.tobuyfor.Edit_Activity"
+            android:label="@string/s_app_name"
+            android:screenOrientation="portrait" 
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="ru.droidwelt.tobuyfor.Help_Activity"
+            android:label="@string/s_app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.droidwelt.tobuyfor.About_Activity"
+            android:label="@string/s_app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.Dialog" >
+        </activity>
+        <activity
+            android:name="ru.droidwelt.tobuyfor.Pref_Activity"
+            android:label="@string/s_settings"
+            android:screenOrientation="portrait" >
+        </activity>
+       
+        
+    </application>
+</manifest>

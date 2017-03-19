@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation"> 
+    <string name="s_app_name">2buy4</string>
+    <string name="s_send_report">Share</string>
+    <string name="s_event_report_subject">2buy4 - </string>
+    <string name="s_search">Search</string>
+    <string name="s_add">Add</string>
+    <string name="s_save">Save</string>
+    <string name="s_pref">Settings</string>
+    <string name="s_edit">Edit</string>
+    <string name="s_order">Sort</string>
+    <string name="s_delete">Delete</string>
+    <string name="s_help">Help</string>
+    <string name="s_close">Close</string>
+    <string name="s_scanner">Scanner</string>
+    <string name="s_share">Share</string>
+    <string name="s_dictionary">Dictionary</string>
+    <string name="s_exit">Exit</string>
+    <string name="s_ok">OK</string>
+    <string name="s_cancel">Cancel</string>
+    <string name="s_copy">Copy</string>
+    <string name="s_done">Done</string>
+    <string name="s_title">Title</string>
+    <string name="s_color">Color</string>
+    <string name="s_value">Value</string>
+    <string name="s_image">Image</string>
+    <string name="s_date">Date</string>
+    <string name="s_newrecord_name">_</string>    
+    <string name="s_scan_progress">Scanning . .</string>    
+    <string name="s_dontshow">Do not show this screen at startup</string>    
+    <string name="s_isempty">Empty list</string>
+    <string name="s_news">What is new</string>
+    <string name="s_newsapp">App news</string>
+    <string name="s_installbutton">Install ToBuyFor PRO</string>
+    
+    <string name="s_delete_master">Delete list ?</string>
+    <string name="s_delete_detail">Delete item ?</string>
+    <string name="s_confirm_request">Confirmation</string>
+    <string name="s_settings">Setting</string>
+    <string name="s_wait">Please, wait</string>
+    <string name="s_namemaster">List name</string>
+    <string name="s_namedetail">Item name</string>
+    <string name="s_copylistname">Name of copies</string>
+    <string name="s_choice_action">Action</string>
+    <string name="s_choice_action_delete">Delete</string>
+    <string name="s_choice_action_copy">Copy</string>
+    <string name="s_choice_action_name">Edit</string>
+    <string name="s_newlistname">New list</string>
+    <string name="s_scan_dlg_title">Search</string>
+    <string name="s_scan_dlg_code">Code</string>
+    <string name="s_scan_dlg_search_web">Search for product in WEB?  </string>
+    <string name="s_scan_ok">OK</string>
+    <string name="s_refresh_dictionary">Dictionary refresh</string>
+    <string name="s_exit_wo_save">Exit without saving ?</string>
+    <string name="s_yes">Yes</string>
+    <string name="s_no">No</string>
+  
+    <string name="s_exit_appl">Close application ?</string>
+    <string name="s_help_ans">ans</string>
+    <string name="s_help_qwe">qwe</string>
+ 
+    <string name="s_not_use_dict_internal_title">s1</string>
+    <string name="s_not_use_dict_internal_summary">s2</string>
+    <string name="s_not_use_dict_filter_title">s3</string>
+    <string name="s_not_use_dict_filter_summary">s4</string>
+ 
+    
+    <string name="s_prepare_to_share">Published by 2buy4 via DroidWelt</string>
+    <string name="s_about_text">About</string>
+    <string name="s_about_version">version X.X, build YYY</string>
+    <string name="s_about_dbsize">records NNNN, KKKМб</string>
+    <string name="s_about_prog">To Buy For - your personal assistant in purchases</string>
+    <string name="s_about_prog2">www.altamix.ru</string>
+    <string name="s_about_prog3">2014</string>
+    <string name="s_about">About</string>
+    <string name="s_about_copyright">2014 © DroidWelt</string>
+    <string name="s_about_records">records</string>
+    <string name="s_fld_namemaster">List name</string>
+    <string name="s_fld_namedetail">Item name</string>
+ 
+   
+</resources>

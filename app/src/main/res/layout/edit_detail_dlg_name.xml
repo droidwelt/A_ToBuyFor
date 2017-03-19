@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp" >
+    
+    <EditText
+        android:id="@+id/edit_detail_dlg_edittext_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/s_fld_namedetail" >
+        <requestFocus />
+    </EditText>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_weight="1" >
+        <ImageButton
+            android:id="@+id/edit_detail_dlg_clr_0"
+            style="@style/Style_ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/c_clr_0"
+            android:contentDescription="@string/s_color"
+            android:src="@drawable/ic_empty" />
+        <ImageButton
+            android:id="@+id/edit_detail_dlg_clr_1"
+            style="@style/Style_ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/c_clr_1"
+            android:contentDescription="@string/s_color"
+            android:src="@drawable/ic_empty" />
+        <ImageButton
+            android:id="@+id/edit_detail_dlg_clr_2"
+            style="@style/Style_ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/c_clr_2"
+            android:contentDescription="@string/s_color"
+            android:src="@drawable/ic_empty" />
+        <ImageButton
+            android:id="@+id/edit_detail_dlg_clr_3"
+            style="@style/Style_ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/c_clr_3"
+            android:contentDescription="@string/s_color"
+            android:src="@drawable/ic_empty" />
+        <ImageButton
+            android:id="@+id/edit_detail_dlg_clr_4"
+            style="@style/Style_ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/c_clr_4"
+            android:contentDescription="@string/s_color"
+            android:src="@drawable/ic_empty" />
+        <ImageButton
+            android:id="@+id/edit_detail_dlg_clr_5"
+            style="@style/Style_ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/c_clr_5"
+            android:contentDescription="@string/s_color"
+            android:src="@drawable/ic_empty" />
+        <ImageButton
+            android:id="@+id/edit_detail_dlg_clr_6"
+            style="@style/Style_ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/c_clr_6"
+            android:contentDescription="@string/s_color"
+            android:src="@drawable/ic_empty" />
+        <ImageButton
+            android:id="@+id/edit_detail_dlg_clr_7"
+            style="@style/Style_ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/c_clr_7"
+            android:contentDescription="@string/s_color"
+            android:src="@drawable/ic_empty" />
+    </LinearLayout>
+</LinearLayout>

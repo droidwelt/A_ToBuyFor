@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string-array name="news_list_qwe">        
+        <item>Новая программа Список покупок PRO</item>
+        <item>Новые возможности Списка покупок PRO по сравнению со Списком покупок</item>
+        <item>Список покупок PRO - Tips and Tricks</item>
+    </string-array>
+</resources>

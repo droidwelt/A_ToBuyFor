@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation"> 
+    <string-array name="help_list_qwe">        
+        <item>Went out into a shop after sugar, returned with the basketful of foods, 
+but. exactly buying sugar was forgotten. Acquainted? Then this application for you! 
+By means of 2buy4 easily and quickly create simple shopping lists, 
+distinguish to the category a color, copy lists, put checkoffs, 
+send shopping lists by mail, scan коды of foods.</item>
+        <item>Simpler can not be. Before a purchase create a new shopping list and in him 
+you collect position. In a shop open this list and short tap you mark position.  </item>
+        <item>Every shopping list consists of heading and positions. For an input new 
+heading pass to the shopping list, press Plus in overhead part of form. 
+Enter the name of new list. Choose any of 8 colors for a selection 
+list. Shopping lists are shown in order of creation (in the beginning same 
+new unfulfilled). If a list will be marked as executed, 
+he automatically will be carried in an end. </item>
+        <item>To copy a shopping list - long tap on the list, 
+             menu select - Copy in the input box, enter the name 
+             copies, and (if you want) a color, click Copy. In the new list will be 
+             copied all the positions of the selected list.</item>
+        <item>To modify header shopping list - long tap on the list, 
+             menu select - Change. When you are prompted to make changes to the header 
+             list.</item>
+        <item>To delete a shopping list - long tap on the list, the menu 
+             select - Delete. Deletes a list of his positions.</item>
+        <item>Search on the shopping list is produced as a by name list 
+             and the positions included in this list. To search, select 
+             Menu - Search. In the search box, enter a value.</item>
+        <item>To add items to the list - a short tap on the shopping list. 
+             Viewer position list, click the Edit button 
+             in the upper part of the screen. Input screen positions. 
+             The left side of the screen is your shopping list. 
+             Initially it is empty. In the right part of the screen is 
+             list of products from which to choose values​​. 
+             This list for selection may be formed by two 
+             ways - using a built-in dictionary 
+             apps and without it. On - off use 
+             built-in dictionary - Dictionary button at the top right of the screen. 
+             If the use of a dictionary is off, then the list for quick selection 
+             will be offered only to those goods which have already been included in the 
+             your shopping lists (including execution). Adding an entry 
+             in position - a short tap on the list on the right or the button 
+             Plus at the top of the screen. Some of the features you can input 
+             set the position of one of 8 colors. Color for the product - this is an analogue product category. 
+             Color on the shopping list is given as - long tap on the items in the left list. 
+             Here you can change the name of the product or remove the product from the list. 
+             Once you paint the products in different colors, the list to select 
+             will also be displayed in accordance with these 
+             (changes will take effect when you reopen the list of products). 
+             Now, when your list has a different color, you can use 
+             a filter for selecting the selection list by their color. Installation of the filter - short 
+             tap the desired color color strip at the top of the screen. 
+             Reset filter - white square with a cross.</item>
+        <item>Shopping lists can be sorted by name, order entry, color. 
+             To select the sort order in the shopping list screen, select 
+             -Sort menu and set the desired order. Position within the shopping list is not sorted, 
+             but simply displayed in the order purchased -> color line -> name </item>
+        <item>A filter is used to reduce the number of records displayed 
+             when choosing a new position or edit it. When you click in the upper 
+             strip on the colored square, will set the filter of the corresponding color. 
+             To reset the filter, click the box with a picture of the cross.</item>
+        <item>Number of built-in dictionary is enabled by default. 
+             Turns off and the dictionary pressing menu 
+             Dictionary in the edit screen list.</item>
+        <item>Select a shopping list, enter the screen position and performance of the mark 
+             select Menu - Share with friends. Will generate a text message 
+             containing the name of the list and the position in the list, indicating execution. </item>
+        <item>Write to us - droidwelt@gmail.com We do not just design 
+             mobile applications, automation of business - our 
+             main activities, www.altamix.ru             </item>
+   
+    </string-array>
+</resources>

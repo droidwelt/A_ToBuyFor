@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/view_menuItem_edit"
+        android:alphabeticShortcut="e"
+        android:icon="@drawable/ic_edit"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/s_edit"
+        android:titleCondensed="@string/s_edit">
+    </item>
+    <item
+        android:id="@+id/view_menuItem_share"
+        android:alphabeticShortcut="h"
+        android:icon="@drawable/ic_share"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/s_share"
+        android:titleCondensed="@string/s_share">
+    </item>
+</menu>

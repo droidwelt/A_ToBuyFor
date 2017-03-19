@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string-array name="help_list_ans">
+        <item>Whom this application is for</item>
+        <item>How to use application</item>
+        <item>Как добавить новую запись в список покупок</item>
+        <item>How to add a new record to the shopping list</item>
+        <item>How to edit the header of shopping list</item>
+        <item>How to delete a shopping list</item>
+        <item>As a search works in a shopping list</item>
+        <item>How to add to position in a shopping list</item>
+        <item>How to change sorting of lists</item>
+        <item>As a filter works on categories at the input of positions</item>
+        <item>How to include and turn off the built-in dictionary of purchase </item>
+        <item>How to share a record with friends</item>
+        <item>Are there questions? Are there wishes, remarks?</item>
+    </string-array>
+</resources>

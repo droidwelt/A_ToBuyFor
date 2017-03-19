@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/c_main"
+    android:orientation="vertical" >
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="@color/c_main"
+        android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+        android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track" >
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:orientation="vertical" >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_00"
+                    style="@style/Style_help_hh"
+                    android:layout_width="wrap_content"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_00"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_01"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_01"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_02"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_02"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_03"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_03"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_04"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_04"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_05"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_05"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_06"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_06"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_07"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_07"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_08"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_08"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_09"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_09"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_10"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_10"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_11"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_11"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/tv_hh_12"
+                    style="@style/Style_help_hh"
+                    android:text="@string/s_help_qwe" />
+                <TextView
+                    android:id="@+id/tv_help_12"
+                    style="@style/Style_help_help"
+                    android:text="@string/s_help_ans" />
+            </LinearLayout>
+            
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

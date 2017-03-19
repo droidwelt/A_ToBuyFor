@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/s_settings" >
+    <CheckBoxPreference
+        android:defaultValue="0"
+        android:key="not_use_dict_internal"
+        android:summary="@string/s_not_use_dict_internal_summary"
+        android:title="@string/s_not_use_dict_internal_title" />
+    <CheckBoxPreference
+        android:defaultValue="0"
+        android:key="not_use_dict_filter"
+        android:summary="@string/s_not_use_dict_filter_summary"
+        android:title="@string/s_not_use_dict_filter_title" />
+</PreferenceScreen>

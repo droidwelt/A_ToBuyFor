@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string-array name="news_list_qwe"> 
+        <item>New application ToBuyFor PRO released</item>       
+        <item>New features ToBuyFor PRO compared to ToBuyFor</item>
+        <item>ToBuyFor PRO - Tips and Tricks</item>
+    </string-array>
+</resources>

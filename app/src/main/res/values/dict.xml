@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation"> 
+    <string-array name="dict">
+        <item>      
+      Mustard; Pate; Wine; Grapes; Mineral water; Green-stuff; Toothpaste; 
+      Lemon; Onions; Soap; Fish; Salad; Pork; Oranges; Eggplant; Bananas; 
+      Paper towels; Ham; Shampoo; Beef; Buckwheat; Turkey; Yogurt; Zucchini; 
+      Cabbage; Potatoes; Ketchup; Coffee; Chicken; Pasta; Mayonnaise; Milk; 
+      Carrots; Flour; Meat; Cucumbers; Olive oil; Pepper; Cookies; Tomatoes; 
+      Rice; Sugar; Beets; Cheese; Sour cream; Juice; Salt; Sausages; Sauce; 
+      Spices; Washing powder; Cottage cheese; Toilet paper; Vinegar; Bread; 
+      Tea; Garlic; Apples; Eggs;
+        </item>
+    </string-array>
+</resources>

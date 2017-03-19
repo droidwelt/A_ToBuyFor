@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string-array name="help_list_qwe">
+        <item>Для кого это приложение</item>
+        <item>Как использовать приложение</item>
+        <item>Как добавить новую запись в список покупок</item>
+        <item>Как копировать список покупок</item>
+        <item>Как редактировать заголовок списка покупок</item>
+        <item>Как удалить список покупок</item>
+        <item>Как работает поиск в списке покупок</item>
+        <item>Как добавлять позиции в список покупок</item>
+        <item>Как изменить сортировку  списков </item>
+        <item>Как работает фильтр по категориям при вводе позиций </item>
+        <item>Как включить и выключить встроенный словарь покупок</item>
+        <item>Как поделиться записью с друзьями </item>
+        <item>Остались вопросы? Есть пожелания, замечания?</item>
+    </string-array>
+</resources>
